@@ -13,7 +13,7 @@ each review contains:
 - overall rating of the business on 0-5 inclusive scale (only integers)
 
 Data subset criteria:
-1) each user has reviewed a minimum of 4 businesses
+1) each user has reviewed a minimum of 5 businesses
 2) each business has a minimum of 5 reviews
 3) businesses are located in California
 
